@@ -78,5 +78,6 @@ For further setup options of remotes etc, check out the daapd website, [Forked-d
 
 ## Versions
 
++ **03.01.18:** Deprecate cpu_core routine lack of scaling.
 + **19.12.17:** Rebase to alpine 3.7.
 + **03.12.17:** Initial Release.
